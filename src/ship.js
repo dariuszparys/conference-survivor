@@ -14,7 +14,7 @@ Ship = function(size, scene) {
     this.position.y = size/2;
 
     // Movement attributes
-    this.speed = 3;
+    this.speed = 4;
     this.moveLeft = false;
     this.moveRight = false;
 
